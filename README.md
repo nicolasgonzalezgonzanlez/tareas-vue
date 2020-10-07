@@ -1,6 +1,9 @@
-# movie
+# Task
 
-> Mira tus pelis favoritas cuando y donde quieras
+> Crea tareas y guardalas en tu store
+
+![texto cualquiera por si no carga la imagen](https://github.com/nicolasgonzalezgonzanlez/tareas-vue/blob/master/news.gif?raw=true)
+
 
 ## Build Setup
 
